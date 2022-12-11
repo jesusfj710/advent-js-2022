@@ -1,7 +1,7 @@
 # Advent JS 2022 🧑🏿‍🎄🧑🏿‍🎄
 
 - [x] [Reto #1: ¡Automatizando envolver regalos de navidad! 🟢 ](reto01/reto01.md): 131 puntos
-- [ ] Reto #2: Nadie quiere hacer horas extra 🟢
+- [x] [Reto #2: Nadie quiere hacer horas extra 🟢 ](reto02/reto02.md): 91 puntos
 - [ ] Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel? 🟢
 - [ ] Reto #4: Una caja dentro de otra caja y otra... 🟡
 - [ ] Reto #5: Optimizando viajes de Santa 🔴
